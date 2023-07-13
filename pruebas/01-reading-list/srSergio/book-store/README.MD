@@ -1,6 +1,10 @@
 ##Descripcion de la aplicación
 
-Bienvenido al repositorio de la aplicación web del catálogo de libros de nuestro sello editorial multinacional. Mi aplicación tiene como objetivo brindar a los usuarios la posibilidad de explorar nuestro catálogo de libros y crear una lista de lectura personalizada. A continuación, se detallan los aspectos clave de la aplicación:
+Mi aplicación tiene como objetivo brindar a los usuarios la posibilidad de explorar nuestro catálogo de libros y crear una lista de lectura personalizada. A continuación, se detallan los aspectos clave de la aplicación:
+
+-Filtro por género: los usuarios pueden filtrar los libros por género.
+-Responsive: la aplicación se adapta a diferentes tamaños de pantalla.
+-LocalStorage: la aplicación almacena la lista de lectura en el almacenamiento local del navegador.
 
 ##Arbol de archivos
 

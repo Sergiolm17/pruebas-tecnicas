@@ -27,6 +27,7 @@ export function Card({
       <button
         className={`
         transform transition duration-300 ease-in-out
+        flex flex-col items-center justify-center
         ${!isFavorite ? "hover:scale-105" : "hover:scale-95"}
         `}
         onClick={() => onClick(book.id)}
