@@ -19,7 +19,7 @@ function App() {
     const filteredBooks = filterByGenre(bookJson, genre);
     setBooks(filteredBooks);
   }, [genre]);
-  const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   const toggleSidebar = () => {
     setIsSidebarOpen(!isSidebarOpen);
